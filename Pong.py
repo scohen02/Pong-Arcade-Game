@@ -1,12 +1,3 @@
-"""
-Sophie Cohen
-Partner: Rachel Pomeranz
-scohen02@wesleyan.edu
-COMP 112, Section 1
-Final Project
-2018.05.15
-"""
-
 import turtle
 import time
 import random
